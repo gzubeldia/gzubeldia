@@ -4,6 +4,6 @@
 | :---: | :-- |
 | **[Zendesk - Ticketera](https://github.com/gzubeldia/gzubeldia/tree/main/Latin/Zendesk-%20Ticketera)**|
 | ---> | *[Manual Agente](https://github.com/gzubeldia/gzubeldia/blob/main/Latin/Zendesk-%20Ticketera/Manual%20Agente.md)*|
-| ---> | *[Manual Usuario.md](https://github.com/gzubeldia/gzubeldia/blob/main/Latin/Zendesk-%20Ticketera/Manual%20Usuario.md)*|
+| ---> | *[Manual Usuario](https://github.com/gzubeldia/gzubeldia/blob/main/Latin/Zendesk-%20Ticketera/Manual%20Usuario.md)*|
 |  [DELTA](https://github.com/gzubeldia/gzubeldia/tree/main/Delta)||  
 | :---: | :-- |
