@@ -1,10 +1,9 @@
 # __INDICE__
 
-|  [LATIN](https://gitlab.com/itkbgroup/itkb/-/tree/main/Documentacion/Soporte)||  
+|  [LATIN](https://github.com/gzubeldia/gzubeldia/tree/main/Latin)||  
 | :---: | :-- |
-| **[Service Desk](https://gitlab.com/itkbgroup/itkb/-/blob/main/Documentacion/Soporte/Soporte%20IT.md)**|
-| **[Compras Contabilidad](https://gitlab.com/itkbgroup/itkb/-/tree/main/Documentacion/Soporte/Compras%20Contabilidad/Andromeda%26Sigex)**|
-| ---> | *[Actualizacion Sigex](https://gitlab.com/itkbgroup/itkb/-/blob/main/Documentacion/Soporte/Compras%20Contabilidad/Andromeda&Sigex/Actualizacion%20Sigex.md)*|
-| ---> | *[Actualizacion Andromeda](https://gitlab.com/itkbgroup/itkb/-/blob/main/Documentacion/Soporte/Compras%20Contabilidad/Andromeda&Sigex/Actualizaci%C3%B3n%20de%20Andromeda.md)*|
-|  [DELTA](https://gitlab.com/itkbgroup/itkb/-/tree/main/Documentacion/Soporte)||  
+| **[Zendesk - Ticketera](https://github.com/gzubeldia/gzubeldia/tree/main/Latin/Zendesk-%20Ticketera)**|
+| ---> | *[Manual Agente](https://github.com/gzubeldia/gzubeldia/blob/main/Latin/Zendesk-%20Ticketera/Manual%20Agente.md)*|
+| ---> | *[Manual Usuario.md](https://github.com/gzubeldia/gzubeldia/blob/main/Latin/Zendesk-%20Ticketera/Manual%20Usuario.md)*|
+|  [DELTA](https://github.com/gzubeldia/gzubeldia/tree/main/Delta)||  
 | :---: | :-- |
