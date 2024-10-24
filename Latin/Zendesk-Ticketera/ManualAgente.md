@@ -62,5 +62,5 @@ Todos los roles están en orden jerárquico, un rol superior abarca los permisos
 Para descargar los tickets en un archivo .CSV se pueden parar en la vista que contenga los tickets que quieran descargar y van a Acciones  Exportar como CSV.
 
 *Ejemplo:*  
-![](imgs/exportacionCSV.jpg)
+![](imgs/exportacionCSVAgente.jpg)
 
