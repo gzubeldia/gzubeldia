@@ -1,6 +1,6 @@
 # __INDICE__
 
-|  [LATINSECURITIES](https://gitlab.com/itkbgroup/itkb/-/tree/main/Documentacion/Soporte)||  
+|  [LATIN](https://gitlab.com/itkbgroup/itkb/-/tree/main/Documentacion/Soporte)||  
 | :---: | :-- |
 | **[Service Desk](https://gitlab.com/itkbgroup/itkb/-/blob/main/Documentacion/Soporte/Soporte%20IT.md)**|
 | **[Compras Contabilidad](https://gitlab.com/itkbgroup/itkb/-/tree/main/Documentacion/Soporte/Compras%20Contabilidad/Andromeda%26Sigex)**|
